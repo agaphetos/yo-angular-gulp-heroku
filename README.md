@@ -4,8 +4,10 @@
 
 * compatible for heroku buildpacks:set <https://github.com/timdp/heroku-buildpack-nodejs-gulp.git>
 
-`heroku buildpacks:set https://github.com/timdp/heroku-buildpack-nodejs-gulp.git`
+    `heroku buildpacks:set https://github.com/timdp/heroku-buildpack-nodejs-gulp.git`
 
 * configure heroku config:set NODE_ENV=production
 
-`heroku config:set NODE_ENV=production`
+    `heroku config:set NODE_ENV=production`
+
+* demo app running on heroku <https://yo-angular-gulp-heroku.herokuapp.com/>
