@@ -6,7 +6,7 @@
     var $httpBackend;
     var $log;
 
-    beforeEach(module('yo-angular-gulp-heroku'));
+    beforeEach(module('yoAngularGulpHeroku'));
     beforeEach(inject(function(_githubContributor_, _$httpBackend_, _$log_) {
       githubContributor = _githubContributor_;
       $httpBackend = _$httpBackend_;

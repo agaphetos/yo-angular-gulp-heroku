@@ -3,7 +3,7 @@
   'use strict';
 
   angular
-    .module('yo-angular-gulp-heroku')
+    .module('yoAngularGulpHeroku')
     .constant('malarkey', malarkey)
     .constant('moment', moment);
 

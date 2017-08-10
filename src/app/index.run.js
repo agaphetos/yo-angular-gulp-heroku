@@ -2,7 +2,7 @@
   'use strict';
 
   angular
-    .module('yo-angular-gulp-heroku')
+    .module('yoAngularGulpHeroku')
     .run(runBlock);
 
   /** @ngInject */
